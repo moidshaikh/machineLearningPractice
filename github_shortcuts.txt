@@ -1,9 +1,13 @@
-GITHUB:
+GITHUB tools:
+my repo address:	https://github.com/moidshaikh/machineLearningPractice.git
+
 
 git init
+git remote add origin <project url>
+
+
 git add .
 git commit -m "Initial commit"
-git remote add origin <project url>
 git push -f origin master
 
 ----------------------------------------------------------------------							SETUP
