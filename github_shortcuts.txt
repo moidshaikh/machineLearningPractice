@@ -4,6 +4,7 @@ my repo address:	https://github.com/moidshaikh/machineLearningPractice.git
 
 git init
 git remote add origin <project url>
+git remote add origin https://github.com/moidshaikh/machineLearningPractice.git
 
 
 git add .
